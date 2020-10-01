@@ -20,7 +20,7 @@ try:
 				os.system("openssl x509 -inform der -in " + options.der + " -out tmp/cert.pem -pubkey")
 				pinner("tmp/cert.pem")
 				os.system("rm -rf tmp")
-			if options.pem:
+			elif options.pem:
 				pinner(options.pem)
 		else:
 			print (sys.argv[0] + " --help")
