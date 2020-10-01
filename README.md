@@ -5,7 +5,7 @@ Create SSL Pinner
 
 `Options:` 
 
-   `-h, --help         show this help message and exit`
+    `-h, --help         show this help message and exit`
 
     `-d der, --der=der  DER Cerfiticate`
 
