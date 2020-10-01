@@ -11,3 +11,5 @@ Create SSL Pinner
 
     `-p pem, --pem=pem  PEM Cerfiticate`
  
+<img width="484" alt="Screenshot at Oct 01 17-16-52" src="https://user-images.githubusercontent.com/39186995/94797231-0aa98d00-040a-11eb-9c62-31240fada23a.png">
+<img width="403" alt="Screenshot at Oct 01 17-17-15" src="https://user-images.githubusercontent.com/39186995/94797269-18f7a900-040a-11eb-8c36-fd2d41bc92e2.png">
