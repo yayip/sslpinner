@@ -1,7 +1,7 @@
 # SSL Pinner
 Create SSL Pinner
 
-`Usage: ./ssl_pinner.py Options `
+`Usage: ./sslpinner.py Options `
 
 `Options:` 
 
